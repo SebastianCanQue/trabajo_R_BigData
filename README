@@ -124,21 +124,21 @@ Se seleccionaron tres gráficas finales como resumen más representativo del an�
 📈 Relación entre horas estudiadas y rendimiento promedio.
 Ayuda a identificar si estudiar más se asocia a mejores resultados.
 
-
+![Gráfica 1](images/grafica1.png)
 
 📍 Gráfica 2 — Motivation Score por género
 
 📦 Comparación de motivación entre géneros mediante boxplots.
 Permite observar diferencias en compromiso según grupos.
 
-
+![Gráfica 2](images/grafica2.png)
 
 📍 Gráfica 3 — Motivation Score vs Overall Performance
 
 🔗 Gráfico de dispersión entre motivación y desempeño global.
 Busca patrones sobre si estudiantes más motivados rinden mejor.
 
-
+![Gráfica 3](images/grafica3.png)
 
 🧠 Conclusiones del Análisis
 
